@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maxolus
-- 👀 I’m interested in Unity, Automotive Designs, Machine Learning, Computer-Sience Research, Java-Programming, Asynchronous and Distributed Systems, Python, C, ...
+- 👀 I’m interested in Unity, Automotive Designs, Machine Learning, Computer-Sience Research, Java-Programming, Asynchronous and Distributed Systems, Python, C#, Augmented Reality, ...
 - 🌱 I’m currently learning how to survive the 20th Century ^^
 
 <!---
